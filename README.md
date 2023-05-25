@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J1NX-82....
-- Undergrad at Chandigarh University||Web Developer||AI ML enthusiast
+- CSE Undergrad at Chandigarh University||Web Developer||AI ML enthusiast
 <!--- 👀 I’m interested in Cybersecurity and Ethical Hacking... --->
 
 - 🌱 I’m currently learning Web Development using MERN Stack...
