@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **React.js, Next.js, NextAuth, Docker**
 
-💬 Ask me about **Node.js, React, Firebase... or anything**
+💬 Ask me about **Node.js, React, JavaScript... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The "404 error" is named after Room 404 at CERN, where the World Wide Web was created**
 
  </div>
  
